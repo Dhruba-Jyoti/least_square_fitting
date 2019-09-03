@@ -30,11 +30,11 @@ int main()
        cout<<"    |                              VERSION 1.00           |"<<endl;
        cout<<"    |                              DATE: 01/02/2019       |"<<endl;
        cout<<"    |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|"<<endl;
-       cout<<"    |                      WRITTEN BY "FRED("DHRUBA JYOTI GOGOI")"  |"<<endl;
+       cout<<"    |                      WRITTEN BY "FRED("D. J. GOGOI")"         |"<<endl;
        cout<<"    |                              Department of Physics  |"<<endl;
-       cout<<"    |                              Dibrugarh University   |"<<endl;
-       cout<<"    |                       Email: moloydhruba@yahoo.in   |"<<endl;
-       cout<<"    |                       Mob. : +919577808925          |"<<endl;
+       cout<<"    |                              D. University          |"<<endl;
+       cout<<"    |                       Email: moloydhruba@gmail.com  |"<<endl;
+       cout<<"    |                       Mob. : 0000000000000          |"<<endl;
        cout<<"    |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|"<<endl;
        cout<<""<<endl;
 
@@ -81,7 +81,7 @@ int main()
 	cout<<""<<endl;
 	cout<<""<<endl;
 	cout<<""<<endl;
-	cout<<"                                                      (c)"FYEL("Dhruba Jyoti Gogoi")""<<endl;
+	cout<<"                                                      (c)"FYEL("D J Gogoi")""<<endl;
 	
 	getchar();
 	getchar();
